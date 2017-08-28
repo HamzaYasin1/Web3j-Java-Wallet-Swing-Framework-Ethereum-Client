@@ -17,7 +17,7 @@ Main Wallet
 ![walletmain](https://user-images.githubusercontent.com/30287193/29768767-f3e61716-8c00-11e7-9fb7-75dee3b39097.PNG)
 
 ## Dependencies
-You need to install some libraries to run this Web3j in your project an you must have IDE like netbeans or eclipse to open this project.
+You need to install some libraries to run this Web3j in your project and you must have IDE like netbeans or eclipse to open this project.
 1.  core-2.3.0.jar
 2.  bcprov-jdk15on-158.jar
 3.  bouncycastle.jar
@@ -33,7 +33,6 @@ You need to install some libraries to run this Web3j in your project an you must
 13. scrypt-1.4.0.jar
 
 ## Built with
-This software is developed in Netbeans 8.2.
 1. Java
 2. Swing Framework
 3. Netbeans 8.2
